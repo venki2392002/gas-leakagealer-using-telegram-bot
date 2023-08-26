@@ -5,10 +5,10 @@
 
 #include <UniversalTelegramBot.h>
 
-#define wifi_ssid "SPUNKY"
-#define wifi_password "8220668139"
-#define telegram_bot_token "6080620345:AAFzhohHgnkwgdpYUjBQhYjOJu4xTFVn_ag"
-#define telegram_chat_id "895600016"
+#define wifi_ssid "Your-wifi-ssid"
+#define wifi_password "Your-wifi-password"
+#define telegram_bot_token "your-telegram-bot-token"
+#define telegram_chat_id "your-chat-id"
 #define co_sensor_pin A0 // MQ-9 CO sensor connected to analog pin A0
 //#define ch4_sensor_pin A1 // MQ-9 CH4 sensor connected to analog pin A1
 
